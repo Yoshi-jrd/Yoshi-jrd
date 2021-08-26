@@ -20,7 +20,7 @@
 
 
 #### ⚡Fun fact:
-- I absolutely love cooking! I almost never cook the same thing twice, there is so much delicious food out there to try!
+- I absolutely love cooking! I almost never cook the same thing twice, there is so much delicious food out there!
 
 <!--
 **Yoshi-jrd/Yoshi-jrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
