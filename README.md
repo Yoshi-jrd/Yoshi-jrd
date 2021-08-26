@@ -1,21 +1,21 @@
-### Hi there, I'm Josh 👋###
+### Hi there, I'm Josh 👋
 <details>
   <summary> Pronouns:</summary> 
     He/She/It/They/Anything you want to call me 😄
  </details>
 
-####🔭 I really like the strength and fleability of __Javascript__ but I also know...####
+####🔭 I really like the strength and fleability of __Javascript__ but I also know...
   - HTML
   - CSS
 
-####🌱 ####I’m learning __Anything and Everything__####
- #####But I am currently working on...#####
+####🌱 I’m learning __Anything and Everything__
+ #####But I am currently working on...
   - Python
   - React
   - The never ending search for more Javascript knowledge
 
-####⚡ Fun fact:####
-#####I loved geology and the concept of deep time#####
+####⚡ Fun fact:
+#####I loved geology and the concept of deep time
 
 <!--
 **Yoshi-jrd/Yoshi-jrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
