@@ -4,21 +4,23 @@
     He/She/It/They/Anything you want to call me 😄
  </details>
 
-🔭
-#### I really like the strength and fleability of __Javascript__ but I also know...
+
+#### 🔭 __Javascript__ is my safe space, but I also know...
   - HTML
   - CSS
-
-🌱
-#### I’m learning __Anything and Everything__
-##### But I am currently working on...
+  - some Python, R, Matlab
+ 
+#### 🌱 I’m learning __Anything and Everything__
+- But I am currently working on...
   - Python
   - React
+  - PHP
+  - SEO
   - The never ending search for more Javascript knowledge
 
-⚡
-#### Fun fact:
-##### I loved geology and the concept of deep time
+
+#### ⚡Fun fact:
+- I absolutely love cooking! I almost never cook the same thing twice, there is so much delicious food out there to try!
 
 <!--
 **Yoshi-jrd/Yoshi-jrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
