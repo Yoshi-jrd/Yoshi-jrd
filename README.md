@@ -1,20 +1,20 @@
-### Hi there, I'm Josh 👋
+### Hi there, I'm Josh 👋###
 <details>
   <summary> Pronouns:</summary> 
     He/She/It/They/Anything you want to call me 😄
  </details>
 
-🔭 ####I really like the strength and fleability of __Javascript__ but I also know...####
+####🔭 I really like the strength and fleability of __Javascript__ but I also know...####
   - HTML
   - CSS
 
-🌱 ####I’m learning __Anything and Everything__####
+####🌱 ####I’m learning __Anything and Everything__####
  #####But I am currently working on...#####
   - Python
   - React
   - The never ending search for more Javascript knowledge
 
-⚡ ####Fun fact:####
+####⚡ Fun fact:####
 #####I loved geology and the concept of deep time#####
 
 <!--
